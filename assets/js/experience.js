@@ -97,7 +97,7 @@ const mentor = [
     title: "Project Nexus",
     subtitle: "Participant",
     image: "assets/images/experience-page/SIH.jpg",
-    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
+    desp: "In our Project Nexus we Basically work with team in a Website which is a Platform or Community where Researchers, Professors and Currently Working Professionals can interact and students also to get the information about recently working projects and it reduce the dublication of idea and also help in research and development of a individuals and their projects. It was nice Experience to work in this Project and various Web Development Skills ",
     href: "https://www.sih.gov.in/",
   },
   
