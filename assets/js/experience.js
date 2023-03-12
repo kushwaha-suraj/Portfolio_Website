@@ -9,21 +9,21 @@ const exp = [
     cardImage: "assets/images/experience-page/ienergizer_logo.jpg",
     place: "Ienergizer IT Services Limited",
     time: "(Dec, 2021 - Jun, 2022)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Work with Ienergizer gives me a lots of experience includes Customer Handling, Client Handling, Data Handling, Reports Making, Backend Data Manitainig, Email Handling etc. Its gives me lots of Experiences of BPO and MNC Rules and Regualtion. By working Ienergizer i learn a lot about how a MNC work and a professional life in MNC.</li>",
   },
   {
     title: "Customer Service Representative",
     cardImage: "assets/images/experience-page/Cogent-E.jpg",
     place: "Cogent E-Services",
     time: "(Jun, 2021 - Oct, 2021)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Work with Cogent gives me a lots of experience includes Customer Handling, Data Handling, Reports Making etc. Its gives me lots of Experiences of BPO and MNC Rules and Regualtion. By working Cogent i learn a lot about how a MNC work and a professional life and Work Culture in MNC.</li>",
   },
   {
     title: "Graphic Designer",
     cardImage: "assets/images/experience-page/bigstock-Businessman-Holding-Card-With-172132808.jpg",
     place: "Kushwaha Printers",
     time: "(Approx 3 Years, Present)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<li>Working in a Family Business always a amaze to not have any work pressure. In my Family Business i work as a Graphic Designer learn various Graphic Designing skills like Vector Designing, Intractive Designing Approach, Logo Designing and Various Printing Designs also. Working as a Designer develop  creative Thinking in me and i always come up with some Unique Designs for customers for their needs.</li>",
   },
 ];
 
