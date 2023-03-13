@@ -9,21 +9,21 @@ const exp = [
     cardImage: "assets/images/experience-page/ienergizer_logo.jpg",
     place: "Ienergizer IT Services Limited",
     time: "(Dec, 2021 - Jun, 2022)",
-    desp: "<li>Work with Ienergizer gives me a lots of experience includes Customer Handling, Client Handling, Data Handling, Reports Making, Backend Data Manitainig, Email Handling etc. Its gives me lots of Experiences of BPO and MNC Rules and Regualtion. By working Ienergizer i learn a lot about how a MNC work and a professional life in MNC.</li>",
+    desp: "Work with Ienergizer gives me a lots of experience includes Customer Handling, Client Handling, Data Handling, Reports Making, Backend Data Manitainig, Email Handling etc. Its gives me lots of Experiences of BPO and MNC Rules and Regualtion. By working Ienergizer i learn a lot about how a MNC work and a professional life in MNC.",
   },
   {
     title: "Customer Service Representative",
     cardImage: "assets/images/experience-page/Cogent-E.jpg",
     place: "Cogent E-Services",
     time: "(Jun, 2021 - Oct, 2021)",
-    desp: "<li>Work with Cogent gives me a lots of experience includes Customer Handling, Data Handling, Reports Making etc. Its gives me lots of Experiences of BPO and MNC Rules and Regualtion. By working Cogent i learn a lot about how a MNC work and a professional life and Work Culture in MNC.</li>",
+    desp: "Work with Cogent gives me a lots of experience includes Customer Handling, Data Handling, Reports Making etc. Its gives me lots of Experiences of BPO and MNC Rules and Regualtion. By working Cogent i learn a lot about how a MNC work and a professional life and Work Culture in MNC.",
   },
   {
     title: "Graphic Designer",
     cardImage: "assets/images/experience-page/bigstock-Businessman-Holding-Card-With-172132808.jpg",
     place: "Kushwaha Printers",
     time: "(Approx 3 Years, Present)",
-    desp: "<li>Working in a Family Business always a amaze to not have any work pressure. In my Family Business i work as a Graphic Designer learn various Graphic Designing skills like Vector Designing, Intractive Designing Approach, Logo Designing and Various Printing Designs also. Working as a Designer develop  creative Thinking in me and i always come up with some Unique Designs for customers for their needs.</li>",
+    desp: "Working in a Family Business always a amaze to not have any work pressure. In my Family Business i work as a Graphic Designer learn various Graphic Designing skills like Vector Designing, Intractive Designing Approach, Logo Designing and Various Printing Designs also. Working as a Designer develop  creative Thinking in me and i always come up with some Unique Designs for customers for their needs.",
   },
 ];
 
