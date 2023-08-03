@@ -9,8 +9,8 @@ const projects = [
     title: "Sample Website",
     cardImage: "assets/images/project-page/candselectrical.jpg",
     description: "A Website Using HTML, CSS, JavaScript, Bootstrap",
-    Previewlink: "https://candselectrical.ml/index.html#",
-    Githublink: "https://github.com/sarickam/c-s_electrical.github.io",
+    Previewlink: "https://candselectrical.netlify.app/",
+    Githublink: "https://github.com/kushwahassuraj/c-s_electrical.github.io",
   },
   
 ];
