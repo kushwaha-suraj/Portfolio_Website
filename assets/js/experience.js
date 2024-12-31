@@ -5,6 +5,20 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Full Stack Developer",
+    cardImage: "assets/images/experience-page/techahead.jpg",
+    place: "TechAhead",
+    time: "(Jul, 2024 - Oct, 2024)",
+    desp: "At Techahead, I developed and managed REST APIs and handled both backend and frontend development. I worked on key projects like Music Copyright Detection, Music Different Bit Streaming, and an Employee Management System. My tech stack included Node.js, Express, Serverless, and React.",
+  },
+  {
+    title: "Backend Developer Intern",
+    cardImage: "assets/images/experience-page/varency.webp",
+    place: "Varency",
+    time: "(Jun, 2023 - Sep, 2023)",
+    desp: "Varency is a cutting-edge file-sharing platform designed to ensure secure and efficient sharing of digital files. During my internship, I focused on backend development, creating and managing robust RESTful APIs, integrating PostgreSQL for reliable data management, and implementing Celery for asynchronous task processing to enhance system scalability and performance.",
+  },
+  {
     title: "Customer Service Representative",
     cardImage: "assets/images/experience-page/ienergizer_logo.jpg",
     place: "Ienergizer IT Services Limited",
@@ -70,29 +84,42 @@ const volunteershipcards = [
   
 ];
 
-const showCards = () => {
-  let output = "";
-  volunteershipcards.forEach(
-    ({ title, cardImage, description }) =>
-      (output += `        
-      <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
+// const showCards = () => {
+//   let output = "";
+//   volunteershipcards.forEach(
+//     ({ title, cardImage, description }) =>
+//       (output += `        
+//       <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
       
-      <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px">
-      <div class="content">
-          <h2 class="volunteerTitle">${title}</h2><br>
-          <p class="copy">${description}</p></div>
+//       <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px">
+//       <div class="content">
+//           <h2 class="volunteerTitle">${title}</h2><br>
+//           <p class="copy">${description}</p></div>
       
-      </div>
-      `)
-  );
-  volunteership.innerHTML = output;
-};
-document.addEventListener("DOMContentLoaded", showCards);
+//       </div>
+//       `)
+//   );
+//   volunteership.innerHTML = output;
+// };
+// document.addEventListener("DOMContentLoaded", showCards);
 
 // Hackathon Section
 
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
+  {
+    title: "Travel Buddy",
+    subtitle: "Runner Up",
+    image: "assets/images/experience-page/hackojims.png",
+    desp: "In the Hack O Jims hackathon, I developed Travel Buddy, a platform designed to aggregate comprehensive information on nearby services and amenities. This feature boosted user engagement by 30%. Additionally, I implemented a user-friendly interface that redirected users to trusted booking sites, resulting in a 25% increase in bookings. My efforts earned me the runner-up position in the competition.",
+  },
+  {
+    title: "Project Lawyer Sathi",
+    subtitle: "Participant",
+    image: "assets/images/experience-page/SIH.jpg",
+    desp: "In the SIH Hackathon, I developed Lawyer Sathi, an AI-powered app designed to provide law-related assistance to individuals and businesses. The app leverages artificial intelligence to offer legal advice, guidance on legal procedures, and access to resources, helping users navigate legal challenges with ease.",
+    href: "https://www.sih.gov.in/",
+  },
   {
     title: "Project Nexus",
     subtitle: "Participant",
